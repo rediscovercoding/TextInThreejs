@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(41, 38, 38);
+}
+
+.webgl {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.heading {
+  font-size: 3vw;
+  font-family: sans-serif;
+  text-align: center;
+  color: aliceblue;
+}
+
+
+/*# sourceMappingURL=main.css.map*/
